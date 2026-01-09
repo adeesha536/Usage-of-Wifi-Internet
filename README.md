@@ -1,2 +1,2 @@
 # Usage-of-Wifi-Internet
-This is a repository maked to calculate Daily Wifi Internet Amout of a Design based company.
+This is a repository to calculate Daily Wifi Internet Data Amout of a Design based company.
